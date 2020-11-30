@@ -1,4 +1,4 @@
-# Venegance-PVP-
+# Venegance-PVP
 Where bug reports will be collected for Venegance Realm
 
 
