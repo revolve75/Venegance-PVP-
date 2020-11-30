@@ -4,9 +4,13 @@ Where bug reports will be collected for Venegance Realm
 
 ---
 name: Bug report
+
 about: Create a report to help us improve
+
 title: ''
+
 labels: ''
+
 assignees: ''
 
 ---
